@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1683301153 source:c:\users\casper\desktop\emergency4\emergencyentrysystem\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<cctype>
+	<type_traits>
+	<regex>
+	<sstream>
+	<string>
+	<windows.h>
+
